@@ -6,3 +6,4 @@
 - [An Apollo with Angular2 full-stack example app: vote for your favorite GitHub repos! ](https://github.com/apollostack/GitHunt-angular2)
 - [AngularJS Boston GraphQL demo](https://github.com/robzhu/graphql-demo)
 - [Hello World example on angular2-apollo repository](https://github.com/apollostack/angular2-apollo/tree/master/examples/hello-world)
+- [From "GraphQL and the amazing Apollo Client" blogpost by Gerard Sans](https://github.com/gsans/todo-angular2)
